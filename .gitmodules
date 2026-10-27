@@ -1,0 +1,3 @@
+[submodule "SystemView"]
+	path = SystemView
+	url = git@github.com:SEGGERMicro/SystemView.git
